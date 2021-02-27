@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899596048116",
+    "project_id": "fir-mvvmapp",
+    "storage_bucket": "fir-mvvmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899596048116:android:96ce84821e20d45bd3b0a1",
+        "android_client_info": {
+          "package_name": "com.codingwithtashi.mvvmfirebaseapp.view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899596048116-ua6crqd4g96emm52e695vstfpf42lg66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWaJm3vd4imEH6MVTcc-aMZWGVZaxgDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899596048116-ua6crqd4g96emm52e695vstfpf42lg66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
