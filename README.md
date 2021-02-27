@@ -1,9 +1,5 @@
 # MVVMFirebaseAndroidProject
 
-## MVVM architecture with firebase firestore android   
-
-Clone and connect your app with firebase and you are good to go   
-
 # If you prefer to read blog check this link below
 
 [MVVM architecture with firebase firestore android series](https://codingwithtashi.medium.com/mvvm-architecture-with-firebase-firestore-android-series-java-1-2-cf4e95800fbf)   
